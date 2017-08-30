@@ -27,7 +27,7 @@ p {
     align-content: center;
 }
 
-.footer {
+.footer p {
     text-align: right;
     font-size: 12px;
 }
