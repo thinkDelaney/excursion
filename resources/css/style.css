@@ -5,11 +5,6 @@ body {
     color: white;
 }
 
-.download {
-    color: Aquamarine;
-    font-size: 16px;
-}
-
 h1 {
     font-size: 50px;
 }
@@ -21,6 +16,15 @@ h2 {
 p {
     color: Gray;
     font-size: 21px;
+}
+
+.download {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
+.phone {
+    align-content: center;
 }
 
 .footer {
